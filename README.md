@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Robert-FA
+- 👋 Hi, I’m Robert Andersson
+<hr>
 
 <!---
 Robert-FA/Robert-FA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
