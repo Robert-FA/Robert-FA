@@ -1,11 +1,11 @@
-Hi, I’m Robert Andersson
+Hi, I’m Robert 
 
 --------------
 <hr>
 
---------------
 
 ![](/assets/neoro1.gif)
+
 
 ---------
 ---------
