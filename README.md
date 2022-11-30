@@ -6,5 +6,4 @@ Hi, I’m Robert Andersson
 ![](/assets/neoro1.gif)
 
 ---------
-
-![](/assets/aisnake1.gif)
+---------
