@@ -1,5 +1,11 @@
-- 👋 Hi, I’m Robert Andersson
+Hi, I’m Robert Andersson
+
+--------------
 <hr>
+
+![Spelet]('.aisnake1.gif')
+
+
 
 <!---
 Robert-FA/Robert-FA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
